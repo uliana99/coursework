@@ -4,8 +4,8 @@
 🚀 **bubble | counting | heap**
 
 
-### **bubble sort** | ### **counting sort** | ### **heap sort**
-<img src= "http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif" width="300" height="whatever"> | <img src= "http://sorting.valemak.com/wp-content/uploads/2013/12/sort_counting.gif" width="300" height="whatever"> | <img src= "http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif" width="300" height="whatever">
+### **bubble sort** 
+<img src= "http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif" width="300" height="whatever">
 
 
 ### **counting sort**
