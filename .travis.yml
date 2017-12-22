@@ -1,0 +1,26 @@
+language: cpp
+
+cache:
+  directories:
+  - "$HOME/.hunter"
+  
+addons:
+  apt:
+    sources:
+      - kalakris-cmake
+    packages:
+      - cmake
+      - lcov
+      - gfortran
+      
+script:
+# tests
+- cmake -H. -B_build -DBUILD_TESTS=ON -DENABLE_COVERAGE=ON
+- cmake --build _build
+- cmake --build _build --target test -- ARGS=--verbose
+- cd _build
+- make gcov
+- make lcov
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash) -X gcov
