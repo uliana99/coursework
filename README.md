@@ -13,4 +13,4 @@
 
 
 ### **heap sort**
-<img src= "http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif" width="300" height="whatever">
+<img src= "http://sorting.valemak.com/wp-content/uploads/2014/04/heapsort.gif" width="300" height="whatever">
