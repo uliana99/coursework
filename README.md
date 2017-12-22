@@ -3,4 +3,6 @@
 ## Coursework 
 🚀 **bubble | counting | heap**
 
-[](http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif)
+[(http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif)]
+
+
