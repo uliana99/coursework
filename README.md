@@ -4,7 +4,7 @@
 🚀 **bubble | counting | heap**
 
 
-# **bubble**
+### **bubble**
 <img src= "http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif" width="300" height="whatever">
 
 
