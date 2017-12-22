@@ -3,6 +3,8 @@
 ## Coursework 
 🚀 **bubble | counting | heap**
 
+
+[1] #**bubble**
 <img src= "http://sorting.valemak.com/wp-content/uploads/2013/11/bubble_1.gif" width="300" height="whatever">
 
 
